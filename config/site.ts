@@ -25,7 +25,11 @@ export const siteConfig = {
     role: "Owner",
   },
 
-  footerNote: "Built with the free Pulse template by Pixel & Oak.",
+  footerNote: "Built with the free Pulse template by",
+  footerCredit: {
+    label: "Pixel & Oak",
+    href: "https://pixelandoak.com/templates/react-dashboard-template/?utm_source=pulse-template",
+  },
 } as const;
 
 export type SiteConfig = typeof siteConfig;

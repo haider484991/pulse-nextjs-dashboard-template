@@ -84,6 +84,17 @@ export default function Shell({
               </span>
             </span>
           </div>
+          <p className="mt-3 text-[11px] leading-relaxed text-[var(--color-muted)]">
+            {siteConfig.footerNote}{" "}
+            <a
+              href={siteConfig.footerCredit.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-2"
+            >
+              {siteConfig.footerCredit.label}
+            </a>
+          </p>
         </div>
       </aside>
 

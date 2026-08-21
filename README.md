@@ -3,6 +3,7 @@
 **A production-ready admin dashboard built with Next.js 15, TypeScript, and Tailwind CSS v4.** Charts with no chart library, a sortable data table, an auth shell, and a dark mode that was designed rather than inverted.
 
 **[Live demo →](https://pixelandoak-pulse.pages.dev)**
+**[Template page →](https://pixelandoak.com/templates/react-dashboard-template/)**
 
 ![Pulse screenshot](./screenshot.png)
 
@@ -101,5 +102,5 @@ MIT — free for personal and commercial use. Attribution appreciated but not re
 
 ---
 
-Built by [Pixel & Oak](https://pixelandoak.com) — web design and AI development studio.
+Built by [Pixel & Oak](https://pixelandoak.com/templates/react-dashboard-template/) — web design and AI development studio.
 More free templates: [Nova (blog)](https://github.com/haider484991/nova-nextjs-blog-template) · [LaunchPad (SaaS)](https://github.com/haider484991/launchpad-nextjs-saas-template) · [Table & Fork (restaurant)](https://github.com/haider484991/tablefork-nextjs-restaurant-template) · [Lumen (photography)](https://github.com/haider484991/lumen-nextjs-photography-template) · [Ignite (startup)](https://github.com/haider484991/ignite-nextjs-startup-template)
