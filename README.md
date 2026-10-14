@@ -5,6 +5,8 @@
 **[Live demo →](https://pixelandoak-pulse.pages.dev)**
 **[Template page →](https://pixelandoak.com/templates/react-dashboard-template/)**
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhaider484991%2Fpulse-nextjs-dashboard-template&project-name=pulse-dashboard&repository-name=pulse-dashboard)
+
 ![Pulse screenshot](./screenshot.png)
 
 ## Charts with zero dependencies
